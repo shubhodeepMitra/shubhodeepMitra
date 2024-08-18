@@ -10,7 +10,7 @@
 
 -   💻 I’m open to collaborating on **innovative ideas and challenging projects** that push the frontiers of technology that will challenge me and allow me to make a significant impact.
 
--   🔍 I'm particularly interested in roles related to **Software Development Engineering (SDE)**, 🤖 **AI Infrastructure like Distributed AI Systems**, and 🛠️ **Systems Engineering**.
+-   🔍 I'm particularly interested in roles related to **Software Development Engineering (SDE)**, 🤖 **AI Infrastructure**, and 🛠️ **Systems Engineering**.
 
 -   📫 Reach me at **smitra27 AT asu DOT edu** or Connect with me on [LinkedIn](https://linkedin.com/in/shubhodeep-mitra)
 
