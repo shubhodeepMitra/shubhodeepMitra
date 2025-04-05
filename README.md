@@ -1,7 +1,9 @@
 -   👋 Hi, I’m @shubhodeepMitra
--   👀 I’m interested in **Distributed Systems, Data-Intensive Systems for AI, Database Systems,** and **Mobile Applications.**
+-   👀 I’m interested in **Distributed Systems, AI Infra, MLE,** and **Backend Applications.**
 
--   🌱 I’m currently an **RA** at **EMITLab**, **ASU**, under **Dr. K. Selçuk Candan**, working on an **NSF-funded** project named **DataStorm**, an extensive data system to support data-driven simulations with necessary **volume, velocity, and variety** and integrate and optimize key aspects and decisions in disaster management.
+-   🌱 Currently, I'm focused on building resilient financial systems at Marqeta. 
+
+-    Previously, I was an **RA** at **EMITLab**, **ASU**, under **Dr. K. Selçuk Candan**, working on an **NSF-funded** project named **DataStorm**, an AI Infra System to support data-driven simulations with necessary **volume, velocity, and variety** and integrate and optimize key aspects and decisions in disaster management using spatio-temporal models.
 
 -   💼 With over **4 years of hands-on experience** in the tech industry, I've honed my expertise in **systems architecture** and the development of **large-scale infrastructure** in **C/C++.** At **Hewlett Packard Enterprise (HPE),** I was entrusted with leading several mission-critical initiatives.
     -   My work was instrumental in engineering the **IP Subinterface**, where I developed its capability to support **17 protocols**, ensuring seamless and reliable traffic flow across complex network environments.
